@@ -12,13 +12,13 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 
 ## **Stack**
 
-<style>
-    div {
-     width: 50px;
-    height: 50px;
-    } 
-</style>
 <picture>
+    <style>
+        div {
+         width: 50px;
+        height: 50px;
+        } 
+    </style>
   <div>
     ![Angular](logoAngular17.svg)
   </div>
