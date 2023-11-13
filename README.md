@@ -14,6 +14,9 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 
 ## **Frameworks**
 ![Frameworks](logosFrameworks.jpg)
+
+## **Mobile**
+![Mobile](logoFlutter.jpg)
         
 ## **Languages**
 ![OOP Languages](logosLangages.jpg)
@@ -23,3 +26,8 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 
 ## **Soft Skills**
 ![My soft skills](logoSoftSkills.jpg)
+
+# **Other**
+
+## **During my free time**
+![C Sharp Unity](logosCsharpUnity.jpg)
