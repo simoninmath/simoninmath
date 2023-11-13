@@ -13,13 +13,13 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 # **Stack**
 
 ## **Frameworks**
-![Angular]() | ![Symfony]()
+![Frameworks](logosFrameworks.jpg)
         
 ## **Languages**
-![OOP Languages]()
+![OOP Languages](logosLangages.jpg)
         
 ## **Prototype**
-![Prototyping]()
+![Prototyping](logosProto.jpg)
 
 ## **Soft Skills**
-![My soft skills]()
+![My soft skills](logoSoftSkills.jpg)
