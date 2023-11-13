@@ -19,7 +19,7 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 ![OOP Languages](logosLangages.jpg)
         
 ## **Prototype**
-![Prototyping](logosProto.jpg)
+![Prototyping](logoPrototypage.jpg)
 
 ## **Soft Skills**
 ![My soft skills](logoSoftSkills.jpg)
