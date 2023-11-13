@@ -22,7 +22,7 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 ![OOP Languages](logosLangages4.jpg)
         
 ## **Prototype**
-![Prototyping](logoPrototypage.jpg)
+![Prototyping](logoPrototypage2.jpg)
 
 ## **Soft Skills**
 ![My soft skills](logoSoftSkills2.jpg)
@@ -30,4 +30,4 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 # **Other**
 
 ## **During my free time**
-![C Sharp Unity](logosCsharpUnity.jpg)
+![C Sharp Unity](logosOther3.jpg)
