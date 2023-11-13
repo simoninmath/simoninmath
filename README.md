@@ -12,7 +12,7 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 
 ## **Stack**
 
-[Angular]() | [Symfony]()
+[Angular](logoAngular17.svg) | [Symfony]()
 
 ## **Languages**
 
