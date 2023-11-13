@@ -25,7 +25,7 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 ![Prototyping](logoPrototypage.jpg)
 
 ## **Soft Skills**
-![My soft skills](logoSoftSkills.jpg)
+![My soft skills](logoSoftSkills2.jpg)
 
 # **Other**
 
