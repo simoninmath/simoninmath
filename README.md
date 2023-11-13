@@ -19,7 +19,7 @@ Then secondly, I joined a diploma course (level 6/Bac+3) as a Designer Developer
 ![Mobile](logoFlutter.jpg)
         
 ## **Languages**
-![OOP Languages](logosLangages3.jpg)
+![OOP Languages](logosLangages4.jpg)
         
 ## **Prototype**
 ![Prototyping](logoPrototypage.jpg)
