@@ -25,7 +25,7 @@ de février 2023 à février 2024.
 # **My stack (for now...)**
 
 ## **Frameworks**
-![Frameworks](logosFrameworks.jpg)
+![Frameworks](logosFrameworks2.jpg)
 
 ## **Mobile**
 ![Mobile](logoFlutter.jpg)
