@@ -28,7 +28,7 @@ de février 2023 à février 2024.
 ![Frameworks](logosFrameworks2.jpg)
 
 ## **Languages**
-![OOP Languages](languages.png)
+![OOP Languages](stack3.jpg)
 
 ## **Mobile**
 ![Mobile](logoFlutter.jpg)
