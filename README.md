@@ -6,7 +6,7 @@ Infographiste Print/Web de formation initiale, j’ai évolué dans la communica
 
 Diplômé d’un Titre de Concepteur Développeur d’Applications (bac+4/niv.6) en 2024 et après une première expérience en entreprise dans le domaine de l’assurance au poste de Développeur Informatique Junior, je maîtrise les fondamentaux du développement applicatif web, notamment sur les frameworks Angular et .NET, ainsi que les langages TypeScript et C#.
 
-**Je suis désormais à la recherche d’une nouvelle aventure  professionnelle dans ce passionnant domaine qu’est le code !**
+**Je suis désormais à la recherche d’une nouvelle aventure professionnelle dans ce passionnant domaine qu’est le code !**
 
 ---
 
