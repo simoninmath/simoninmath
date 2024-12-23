@@ -22,24 +22,7 @@ Puis dans un second temps, j’ai intégré une formation diplômante (niv.6/Bac
 de février 2023 à février 2024.
 
 
-# **My stack (for now...)**
+# **Overview (for now...)**
 
-## **Frameworks**
-![Frameworks](logosFrameworks2.jpg)
 
-## **Languages**
-![OOP Languages](stack3.jpg)
 
-## **Mobile**
-![Mobile](logoFlutter.jpg)
-        
-## **Prototype**
-![Prototyping](logoPrototypage2.jpg)
-
-## **Soft Skills**
-![My soft skills](logoSoftSkills2.jpg)
-
-# **Other**
-
-## **During my free time**
-![C Sharp Unity](logosOther3.jpg)
