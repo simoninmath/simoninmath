@@ -23,6 +23,6 @@ de février 2023 à février 2024.
 
 
 # **Overview**
-![Overview skills Mathieu SIMONIN](OverviewMS.jpg)
+![Overview skills Mathieu SIMONIN]()
 
 
