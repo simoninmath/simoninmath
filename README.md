@@ -20,7 +20,11 @@ Graduating in 2024 with a degree in Application Design and Development (bac+4/ni
 ![Overview skills Mathieu SIMONIN](OverviewMS.jpg)
 
 # **Final dissertation**
-Mon mémoire de fin d'études, que j'ai soutenu devant un jury d'experts pour obtenir le titre de concepteur développeur d'applications.
----
-My final dissertation, which I defended in front of a panel of experts to earn the title of Applications Developer Designer.
-![Final dissertation](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
+
+Mon mémoire de fin d'études, que j'ai soutenu devant un jury d'experts pour l'obtention du Titre RNCP de Concepteur Développeur d'Application en février 2024.
+Ce dossier est basé sur une application web réalisée en Angular pour la partie frontend et Symfony pour la partie backend pour les besoins de l'examen final.
+
+My final dissertation, which I defended in front of a panel of experts to obtain the RNCP title of Application Developer Designer in February 2024. 
+This file is based on a web application built in Angular for the frontend and Symfony for the backend for the purposes of the final exam.
+
+[Final dissertation](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
