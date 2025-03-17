@@ -19,4 +19,5 @@ Graduating in 2024 with a degree in Application Design and Development (bac+4/ni
 # **Overview**
 ![Overview skills Mathieu SIMONIN](OverviewMS.jpg)
 
-
+# **Final dissertation**
+! [Final dissertation](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
