@@ -27,4 +27,4 @@ Ce dossier est basé sur une application web réalisée en Angular 16 pour la pa
 My final dissertation, which I defended in front of a panel of experts to obtain the RNCP title of Application Developer Designer in February 2024. 
 This file is based on a web application built in Angular 16 for the frontend and Symfony 6 for the backend for the purposes of the final exam.
 
-[Mathieu SIMONIN Final dissertation for CDA/ADD exam](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
+[DOWNLOAD IT!](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
