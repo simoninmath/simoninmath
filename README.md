@@ -20,4 +20,7 @@ Graduating in 2024 with a degree in Application Design and Development (bac+4/ni
 ![Overview skills Mathieu SIMONIN](OverviewMS.jpg)
 
 # **Final dissertation**
-! [Final dissertation](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
+Mon mémoire de fin d'études, que j'ai soutenu devant un jury d'experts pour obtenir le titre de concepteur développeur d'applications.
+---
+My final dissertation, which I defended in front of a panel of experts to earn the title of Applications Developer Designer.
+![Final dissertation](DossierProjetCDA_MathieuSIMONIN_VALIDE_compressed.pdf)
